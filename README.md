@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 Im Paul, a student at Dubai International Academy Al Barsha.
 
@@ -8,9 +8,9 @@ I am currently working on understanding machine learning and artificial intellig
 
 ___
 
-## A bit about me:
+#### **A bit about me:**
 * I was born on October 12 2009
 * Im Lebanese
 * I speak English, Arabic, Armenian, and a bit of spanish
 * Dragon Ball Z and Attack on Titan are my favorite animes
-* ## Hobbies: working out, manga, making minigames 
+* **Hobbies:** working out, manga, making minigames 
