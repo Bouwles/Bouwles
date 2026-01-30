@@ -12,5 +12,5 @@ ___
 * I was born on October 12 2009
 * Im Lebanese
 * I speak English, Arabic, Armenian, and a bit of spanish
-* Dragon Ball Z and Attack on Titan are my favorite animes
-* **Hobbies:** working out, manga, making minigames 
+* Pacific Rim is my favorite movie
+* **Hobbies:** working out, reading manga, programming small projects
