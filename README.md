@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 Im Paul, a student at Dubai International Academy Al Barsha.
 
