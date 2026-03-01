@@ -10,7 +10,7 @@ ___
 
 #### **A bit about me:**
 * I was born on October 12 2009
-* Im Lebanese
+* I am Lebanese
 * I speak fluent English, Arabic, Armenian (and a bit of spanish)
 * Pacific Rim is my favorite movie
 * **Hobbies:** working out, programming, and scuba diving
