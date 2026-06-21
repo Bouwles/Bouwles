@@ -1,27 +1,39 @@
-### Hello 👋
+### Hi, I'm Paul 👋
 
-Im Paul, a student at Dubai International Academy Al Barsha.
+I'm an AI/ML enthusiast and software developer based in Dubai, currently in 
+my final years of the IB Diploma at Dubai International Academy Al Barsha.
 
-I mostly work on game development, primairly with the use of C# and python (although I do often use other languages).
+My background started in game development (C#, Unity) but I've shifted my 
+focus toward machine learning and artificial intelligence by building projects 
+that solve real problems, not just follow tutorials.
 
-I am currently working on understanding machine learning and artificial intelligence, so some of my smaller projects/experiments will be uploaded here. 
-
-___
-
-#### **A bit about me:**
-* I was born on October 12 2009
-* I am Lebanese
-* I speak fluent English, Arabic, Armenian (and a bit of spanish)
-* Pacific Rim is my favorite movie
-* **Hobbies:** working out, programming, and scuba diving
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nercessianpaul@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+I'm applying to AI/CS programs for Fall 2026, with a long-term goal of 
+researching and building intelligent systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bouwles&icon=0&color=0)](https://visitcount.itsvg.in)
+
+#### What I'm working on
+- Exploring machine learning through hands-on projects in Python
+- Experimenting with computer vision and NLP
+- Building a foundation in deep learning frameworks (PyTorch, TensorFlow)
+
+#### Background
+- Based in Dubai 🇦🇪 | Lebanese-Armenian 🇱🇧
+- Fluent in English, Arabic, and Armenian
+- Languages: Python, C#, and learning more
+- Previously built games in Unity and now building intelligent systems
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nercessianpaul@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
