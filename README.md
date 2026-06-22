@@ -4,7 +4,7 @@ I'm an AI/ML enthusiast and software developer based in Dubai, currently in my f
 
 I'm applying to AI related bachelors around fall 2026, with a long-term goal of researching and building intelligent systems.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Bouwles&color=brightgreen)
 
 ---
 
