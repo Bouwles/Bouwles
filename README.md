@@ -44,12 +44,9 @@ I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
 ![](https://streak-stats.demolab.com/?user=Bouwles&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bouwles&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
