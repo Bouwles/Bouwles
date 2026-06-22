@@ -45,6 +45,7 @@ I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
+---
 
 ![](https://streak-stats.demolab.com/?user=Bouwles&theme=dark&hide_border=false)
 
