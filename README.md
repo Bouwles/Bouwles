@@ -7,7 +7,7 @@ My background started in game development (C#, Unity) but I've shifted my
 focus toward machine learning and artificial intelligence by building projects 
 that solve real problems, not just follow tutorials.
 
-I'm applying to AI/CS programs for Fall 2026, with a long-term goal of 
+I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 researching and building intelligent systems.
 
 ---
