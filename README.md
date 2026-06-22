@@ -50,10 +50,6 @@ I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 
 ![](https://streak-stats.demolab.com/?user=Bouwles&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bouwles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bouwles&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 
-## Profile Views
-
-[![](https://komarev.com/ghpvc/?username=Bouwles&icon=0&color=0)](https://visitcount.itsvg.in)
