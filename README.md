@@ -46,7 +46,7 @@ I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Bouwles&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Bouwles&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=Bouwles&theme=dark&hide_border=false)
 
