@@ -1,45 +1,45 @@
-# Hi, I'm Paul 👋
+# Paul Nercessian
 
-I'm an AI/ML enthusiast and software developer based in Dubai, currently in my final years of the IB Diploma at Dubai International Academy Al Barsha. My background started in game development (C#, Unity) but I've shifted my focus toward machine learning and artificial intelligence by building projects that solve real problems, not just follow tutorials.
+AI/ML-focused software developer based in Dubai, building interactive systems that are easy to run, easy to inspect, and backed by real tests.
 
-I'm applying to AI related bachelors around fall 2026, with a long-term goal of researching and building intelligent systems.
+[![Profile views](https://komarev.com/ghpvc/?username=Bouwles&color=0e75b6&style=flat)](https://github.com/Bouwles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Nercessian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
+[![Email](https://img.shields.io/badge/Email-nercessianpaul%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nercessianpaul@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=Bouwles&color=brightgreen)
+I started with game development in C# and Unity, then moved toward machine learning, computer vision, NLP, simulations, and reinforcement learning. I like projects that do the full loop: generate or process data, run the model or simulation, show results visually, and explain the tradeoffs honestly.
 
----
+## Showcase Projects
 
-## What I'm working on
+| Project | What it demonstrates |
+| --- | --- |
+| [DriftSync](https://github.com/Bouwles/DriftSync) | Interactive Pygame ML app with synthetic data, preprocessing, multiple model paths, uncertainty, realtime inference, tests, and generated README media. |
+| [ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter) | Browser-based ASL gesture prototype using webcam hand landmarks, sentence generation, custom phrases, local AI fallback, and a tested interpreter core. |
+| [Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP project with preprocessing, CLI usage, Streamlit demo, Hugging Face model wrapper, examples, and fast unit tests. |
+| [Four-Way Stochastic Traffic Simulation](https://github.com/Bouwles/Four-Way-Stohastic-Traffic-Simulation) | Deterministic browser simulation comparing equal-time and adaptive signal control with paired trials, confidence intervals, CSV exports, and a live visual UI. |
+| [RL Chess and Snake Lab](https://github.com/Bouwles/rl-chess-snake-lab) | Reinforcement learning lab with Snake DQN experiments, chess self-play scaffolding, replay memory, metrics, checkpoints, configs, GIF demos, and tests. |
+| [Magnus Effect Physics Simulation](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation) | Interactive Three.js physics simulation showing spin, drag, gravity, Magnus force vectors, trajectory trails, and live telemetry. |
 
-- Exploring machine learning through hands-on projects in Python
-- Experimenting with computer vision and NLP
-- Building a foundation in deep learning frameworks (PyTorch, TensorFlow)
+## What I Care About
 
----
+- AI systems that are understandable, not just impressive in a screenshot.
+- Demos that actually run for someone opening the repo.
+- Clear READMEs with screenshots, GIFs, limitations, and commands.
+- Tests for the parts that should not quietly break.
+- Projects that connect math, code, and visual feedback.
 
-## Background
+## Tech Stack
 
-- Based in Dubai 🇦🇪 | Lebanese-Armenian 🇱🇧
-- Fluent in English, Arabic, and Armenian
-- Languages: Python, C#, and learning more
-- Previously built games in Unity and now building intelligent systems
+**Languages:** Python, JavaScript, C#, HTML/CSS<br>
+**AI/ML:** PyTorch, scikit-learn, Transformers, NumPy, pandas<br>
+**Apps and demos:** Pygame, Streamlit, Three.js, React, Vite<br>
+**Tools:** Git, GitHub Actions, pytest, node:test, Blender, Unity
 
----
+## Currently Building Toward
 
-## 🌐 Connect
+I am in the final years of the IB Diploma at Dubai International Academy Al Barsha and plan to apply for AI-related bachelor's programs around fall 2026. Long term, I want to research and build intelligent systems that combine practical software engineering with machine learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nercessianpaul@gmail.com)
+## Best Starting Points
 
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+If you only check one repo, start with [DriftSync](https://github.com/Bouwles/DriftSync).<br>
+If you want a browser demo, open the [traffic simulation](https://bouwles.github.io/Four-Way-Stohastic-Traffic-Simulation/).<br>
+If you want code that is compact and easy to review, check [ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter) or [Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer).
