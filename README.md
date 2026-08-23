@@ -1,6 +1,6 @@
 # Hello, Im Paul
 
-Highschool student with a strong focus on AI/ML programming projects.
+I am a high school student in Dubai with a strong focus on AI/ML programming projects.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Bouwles&color=0e75b6&style=flat)](https://github.com/Bouwles)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Nercessian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
