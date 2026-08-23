@@ -1,6 +1,6 @@
-# Paul Nercessian
+# Hello, Im Paul
 
-AI/ML-focused software developer based in Dubai, building interactive systems that are easy to run, easy to inspect, and backed by real tests.
+Highschool student with a strong focus on AI/ML programming projects.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Bouwles&color=0e75b6&style=flat)](https://github.com/Bouwles)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Nercessian-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
