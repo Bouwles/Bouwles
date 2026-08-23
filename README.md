@@ -43,11 +43,3 @@ I'm applying to AI related bachelors around fall 2026, with a long-term goal of 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
----
-
-![](https://streak-stats.demolab.com/?user=Bouwles&theme=dark&hide_border=false)
-
-
-
