@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:16a34a&height=170&section=header&text=Paul%20Nercessian&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Machine%20learning,%20simulation,%20and%20things%20that%20actually%20run&descSize=15&descAlignY=58" alt="Paul Nercessian" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:16a34a&height=170&section=header&text=Paul%20Nercessian&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI/ML,%20browser%20experiments,%20and%20interactive%20systems&descSize=15&descAlignY=58" alt="Paul Nercessian" />
 
 <a href="https://linkedin.com/in/paul-nercessian-b00427383"><img src="https://img.shields.io/badge/LinkedIn-Paul%20Nercessian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nercessianpaul@gmail.com"><img src="https://img.shields.io/badge/Email-nercessianpaul-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
