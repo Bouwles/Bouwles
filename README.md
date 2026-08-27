@@ -86,8 +86,8 @@ I am in the final year of the IB Diploma at Dubai International Academy Al Barsh
 
 | DriftSync | Stochastic Traffic Sim | RL Chess and Snake Lab |
 | --- | --- | --- |
-| <a href="https://github.com/Bouwles/DriftSync"><img src="assets/profile/driftsync-profile-snapshot.png" alt="DriftSync profile snapshot" width="260" /></a> | <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="assets/profile/traffic-profile-snapshot.png" alt="Four-way stochastic traffic simulation profile snapshot" width="260" /></a> | <a href="https://github.com/Bouwles/rl-chess-snake-lab"><img src="assets/profile/rl-lab-profile-snapshot.png" alt="RL Chess and Snake Lab profile snapshot" width="260" /></a> |
-| Realtime ML inference with uncertainty | Browser simulation with paired trials | Snake DQN and chess self-play experiments |
+| <a href="https://github.com/Bouwles/DriftSync"><img src="https://raw.githubusercontent.com/Bouwles/DriftSync/main/docs/assets/driftsync-live-demo.gif" alt="DriftSync realtime inference demo" width="260" /></a> | <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="https://raw.githubusercontent.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation/main/docs/media/simulation-replay.gif" alt="Four-way stochastic traffic simulation replay" width="260" /></a> | <a href="https://github.com/Bouwles/rl-chess-snake-lab"><img src="https://raw.githubusercontent.com/Bouwles/rl-chess-snake-lab/main/docs/media/snake_demo.gif" alt="RL Snake DQN moving demo" width="260" /></a> |
+| Realtime ML inference with uncertainty | Browser simulation with paired trials | Snake DQN training demo |
 
 </div>
 
