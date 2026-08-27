@@ -79,20 +79,6 @@ I am in the final year of the IB Diploma at Dubai International Academy Al Barsh
 - **One repo only?** → [DriftSync](https://github.com/Bouwles/DriftSync) — the fullest end-to-end ML project.
 - **Want something to click?** → [Traffic simulation live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/) — runs in the browser, no install.
 - **Reviewing code quickly?** → [ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter) or [Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer) — compact and readable.
-
-## Project Snapshots
-
-<div align="center">
-
-| DriftSync | Stochastic Traffic Sim | RL Chess and Snake Lab |
-| --- | --- | --- |
-| <a href="https://github.com/Bouwles/DriftSync"><img src="https://raw.githubusercontent.com/Bouwles/DriftSync/main/docs/assets/driftsync-live-demo.gif" alt="DriftSync realtime inference demo" width="260" /></a> | <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="https://raw.githubusercontent.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation/main/docs/media/simulation-replay.gif" alt="Four-way stochastic traffic simulation replay" width="260" /></a> | <a href="https://github.com/Bouwles/rl-chess-snake-lab"><img src="https://raw.githubusercontent.com/Bouwles/rl-chess-snake-lab/main/docs/media/snake_demo.gif" alt="RL Snake DQN moving demo" width="260" /></a> |
-| Realtime ML inference with uncertainty | Browser simulation with paired trials | Snake DQN training demo |
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:052e16&height=100&section=footer" alt="" />
 
 </div>
