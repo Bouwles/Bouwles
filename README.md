@@ -7,24 +7,13 @@
 <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="https://img.shields.io/badge/Live%20Demo-Traffic%20Sim-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
 <a href="https://github.com/Bouwles"><img src="https://komarev.com/ghpvc/?username=Bouwles&color=16a34a&style=for-the-badge&label=Profile+Views" alt="Profile views" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=16A34A&center=true&vCenter=true&width=720&lines=AI%2FML+%E2%80%A2+browser+experiments+%E2%80%A2+interactive+systems;DriftSync+%E2%80%A2+ASL+Interpreter+%E2%80%A2+stochastic+traffic+sim;Build+it+%E2%80%A2+test+it+%E2%80%A2+make+it+visible" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=16A34A&center=true&vCenter=true&width=720&lines=AI%2FML+%E2%80%A2+browser+experiments+%E2%80%A2+interactive+systems;DriftSync+%E2%80%A2+RL+labs+%E2%80%A2+stochastic+traffic+sim;Build+it+%E2%80%A2+test+it+%E2%80%A2+make+it+visible" alt="Typing SVG" />
 
 </div>
 
 ---
 
 I started with game development in C# and Unity, then moved toward machine learning, computer vision, NLP, simulations, and reinforcement learning. I like projects that do the full loop: generate or process data, run the model or simulation, show results visually, and explain the tradeoffs honestly.
-
-## Project Snapshots
-
-<div align="center">
-
-| DriftSync | Stochastic Traffic Sim | ASL Interpreter |
-| --- | --- | --- |
-| <a href="https://github.com/Bouwles/DriftSync"><img src="https://raw.githubusercontent.com/Bouwles/DriftSync/main/docs/assets/driftsync-live-demo.gif" alt="DriftSync realtime inference demo" width="260" /></a> | <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="https://raw.githubusercontent.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation/main/docs/media/simulation-replay.gif" alt="Four-way stochastic traffic simulation replay" width="260" /></a> | <a href="https://github.com/Bouwles/ASL-Interpreter"><img src="https://raw.githubusercontent.com/Bouwles/ASL-Interpreter/main/docs/assets/asl-interpreter-preview.svg" alt="ASL Interpreter preview" width="260" /></a> |
-| Realtime ML inference with uncertainty | Browser simulation with paired trials | Webcam gesture interpreter prototype |
-
-</div>
 
 ## Showcase Projects
 
@@ -90,6 +79,17 @@ I am in the final year of the IB Diploma at Dubai International Academy Al Barsh
 - **One repo only?** → [DriftSync](https://github.com/Bouwles/DriftSync) — the fullest end-to-end ML project.
 - **Want something to click?** → [Traffic simulation live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/) — runs in the browser, no install.
 - **Reviewing code quickly?** → [ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter) or [Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer) — compact and readable.
+
+## Project Snapshots
+
+<div align="center">
+
+| DriftSync | Stochastic Traffic Sim | RL Chess and Snake Lab |
+| --- | --- | --- |
+| <a href="https://github.com/Bouwles/DriftSync"><img src="assets/profile/driftsync-profile-snapshot.png" alt="DriftSync profile snapshot" width="260" /></a> | <a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="assets/profile/traffic-profile-snapshot.png" alt="Four-way stochastic traffic simulation profile snapshot" width="260" /></a> | <a href="https://github.com/Bouwles/rl-chess-snake-lab"><img src="assets/profile/rl-lab-profile-snapshot.png" alt="RL Chess and Snake Lab profile snapshot" width="260" /></a> |
+| Realtime ML inference with uncertainty | Browser simulation with paired trials | Snake DQN and chess self-play experiments |
+
+</div>
 
 <div align="center">
 
