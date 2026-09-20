@@ -62,13 +62,13 @@ The traffic simulation and the Magnus effect simulation run in the browser with 
 **Apps and demos:** Pygame · Streamlit · Three.js · React · Vite<br>
 **Testing and tooling:** pytest · node:test · GitHub Actions · Git
 
-## What I Care About
+## A Little Bit About Me
 
-- AI systems that are understandable, not just impressive in a screenshot.
-- Demos that actually run for someone opening the repo.
-- Clear READMEs with screenshots, GIFs, limitations, and commands.
-- Tests for the parts that should not quietly break.
-- Projects that connect math, code, and visual feedback.
+- I was introduced to the world of programming at 8 years old.
+- I am Lebanese.
+- Fitness is a pretty important part of my life, I have lost over 42 kilograms and love powerlifting.
+- My favorite school subject is physics.
+- My other hobbies include game development and reading manga (Japanese comic books).
 
 ## Currently Building Toward
 
