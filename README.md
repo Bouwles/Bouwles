@@ -24,6 +24,12 @@ I am in the final year of the IB Diploma at Dubai International Academy Al Barsh
 
 [**Paul's Python Course**](https://github.com/Bouwles/pauls-python-course): revision site I built for the teenage students I teach Python to, with notes, exercises, and an in-browser Python editor.
 
+## Other Work
+
+- **Developer tools:** Claude Code plugins that [flag hidden assumptions in code](https://github.com/Bouwles/assumption-archaeologist) and [detect comments left stale by code edits](https://github.com/Bouwles/comment-rot-detector)
+- **Apps:** [Silo](https://github.com/Bouwles/Silo) (macOS focus timer and study analytics), [PromptForge](https://github.com/Bouwles/PromptForge) (local prompt generation with Ollama), [KenKen generator](https://github.com/Bouwles/kenken-for-paul) (Mac app and website), [PR Tracker](https://github.com/Bouwles/nercessians-pr-tracker) (gym progress tracker)
+- **Games:** [Hand Cannon](https://github.com/Bouwles/3D-Finger-Tracking-Shooter-Game) (3D browser shooter controlled by hand tracking), [SCRATCH](https://github.com/Bouwles/SCRATCH) (billiards roguelite), [Breaktime](https://github.com/Bouwles/breaktime) (browser roguelite)
+
 ## Technical Skills
 
 - **Languages:** Python, JavaScript, C#, HTML/CSS
