@@ -1,84 +1,32 @@
-<div align="center">
+# Paul Nercessian
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:16a34a&height=170&section=header&text=Paul%20Nercessian&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI/ML,%20browser%20experiments,%20and%20interactive%20systems&descSize=15&descAlignY=58" alt="Paul Nercessian" />
+**Student developer in Dubai working on machine learning, simulation, and interactive systems.**
 
-<a href="https://linkedin.com/in/paul-nercessian-b00427383"><img src="https://img.shields.io/badge/LinkedIn-Paul%20Nercessian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nercessianpaul@gmail.com"><img src="https://img.shields.io/badge/Email-nercessianpaul-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/"><img src="https://img.shields.io/badge/Live%20Demo-Traffic%20Sim-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
-<a href="https://github.com/Bouwles"><img src="https://komarev.com/ghpvc/?username=Bouwles&color=16a34a&style=for-the-badge&label=Profile+Views" alt="Profile views" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-nercessian-b00427383)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nercessianpaul@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=16A34A&center=true&vCenter=true&width=720&lines=AI%2FML+%E2%80%A2+browser+experiments+%E2%80%A2+interactive+systems;DriftSync+%E2%80%A2+RL+labs+%E2%80%A2+stochastic+traffic+sim;Build+it+%E2%80%A2+test+it+%E2%80%A2+make+it+visible" alt="Typing SVG" />
+I build projects end to end: generating or processing the data, training the model or running the simulation, and presenting the results with tests and clear documentation. My background is in C# and Unity game development; my current focus is ML, computer vision, NLP, and reinforcement learning.
 
-</div>
+I am in the final year of the IB Diploma at Dubai International Academy Al Barsha (HL: Design Technology, Business, Mathematics AI) and am applying to AI and computer science degree programmes for autumn 2027.
 
----
+## Selected Projects
 
-I started with game development in C# and Unity, then moved toward machine learning, computer vision, NLP, simulations, and reinforcement learning. I like projects that do the full loop: generate or process data, run the model or simulation, show results visually, and explain the tradeoffs honestly.
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**DriftSync**](https://github.com/Bouwles/DriftSync) | Real-time ML system that predicts when a user is about to make a mistake. Synthetic data generation, multiple model paths, uncertainty estimates, and live inference in an interactive app. | Python · PyTorch · Pygame |
+| [**RL Chess and Snake Lab**](https://github.com/Bouwles/rl-chess-snake-lab) | Reinforcement learning experiments: DQN agents for Snake and self-play scaffolding for chess, with replay memory, checkpointing, configurable runs, and metrics. | Python · PyTorch · Gymnasium |
+| [**Four-Way Traffic Simulation**](https://github.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation) ([demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/)) | Seeded stochastic simulation comparing fixed-time and adaptive signal control using paired trials and confidence intervals. Built for my IB Mathematics internal assessment. | JavaScript |
+| [**ASL Interpreter**](https://github.com/Bouwles/ASL-Interpreter) | Browser-based sign language prototype that turns webcam hand landmarks into sentences, with custom phrases and a tested interpreter core. | JavaScript · Computer vision |
+| [**Arabic Sentiment Analyzer**](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP pipeline with text preprocessing, a Transformers model wrapper, CLI, and Streamlit demo. | Python · Hugging Face |
+| [**Magnus Effect Simulation**](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation) | Interactive 3D physics simulation of spin, drag, and Magnus force with trajectory trails and live telemetry. | JavaScript · Three.js |
 
-## Showcase Projects
+## Teaching
 
-| Project | What it demonstrates | Last update |
-| --- | --- | :---: |
-| **[DriftSync](https://github.com/Bouwles/DriftSync)** | Interactive Pygame ML app with synthetic data, preprocessing, multiple model paths, uncertainty estimates, realtime inference, tests, and generated README media. | ![](https://img.shields.io/github/last-commit/Bouwles/DriftSync?style=flat-square&label=&color=16a34a) |
-| **[ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter)** | Browser-based ASL gesture prototype using webcam hand landmarks, sentence generation, custom phrases, local AI fallback, and a tested interpreter core. | ![](https://img.shields.io/github/last-commit/Bouwles/ASL-Interpreter?style=flat-square&label=&color=16a34a) |
-| **[Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer)** | Arabic NLP pipeline with preprocessing, CLI usage, Streamlit demo, Hugging Face model wrapper, worked examples, and fast unit tests. | ![](https://img.shields.io/github/last-commit/Bouwles/arabic-sentiment-analyzer?style=flat-square&label=&color=16a34a) |
-| **[Four-Way Stochastic Traffic Simulation](https://github.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation)** · [live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/) | Deterministic browser simulation comparing fixed-time and adaptive signal control with paired trials, confidence intervals, CSV exports, and a live visual UI. | ![](https://img.shields.io/github/last-commit/Bouwles/Four-Way-Stochastic-Traffic-Simulation?style=flat-square&label=&color=16a34a) |
-| **[RL Chess and Snake Lab](https://github.com/Bouwles/rl-chess-snake-lab)** | Reinforcement learning lab with Snake DQN experiments, chess self-play scaffolding, replay memory, metrics, checkpoints, configs, GIF demos, and tests. | ![](https://img.shields.io/github/last-commit/Bouwles/rl-chess-snake-lab?style=flat-square&label=&color=16a34a) |
-| **[Magnus Effect Physics Simulation](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation)** | Interactive Three.js simulation of spin, drag, gravity, Magnus force vectors, trajectory trails, and live telemetry. | ![](https://img.shields.io/github/last-commit/Bouwles/Physics-Magnus-Effect-Simulation?style=flat-square&label=&color=16a34a) |
+[**Paul's Python Course**](https://github.com/Bouwles/pauls-python-course): revision site I built for the teenage students I teach Python to, with notes, exercises, and an in-browser Python editor.
 
-<details>
-<summary><b>Run any of them in under a minute</b></summary>
+## Technical Skills
 
-<br>
-
-```bash
-# DriftSync — interactive ML app
-git clone https://github.com/Bouwles/DriftSync && cd DriftSync
-pip install -r requirements.txt && python main.py
-
-# Arabic Sentiment Analyzer — Streamlit demo
-git clone https://github.com/Bouwles/arabic-sentiment-analyzer && cd arabic-sentiment-analyzer
-pip install -r requirements.txt && streamlit run app.py
-
-# RL Chess and Snake Lab — train a Snake DQN agent
-git clone https://github.com/Bouwles/rl-chess-snake-lab && cd rl-chess-snake-lab
-pip install -r requirements.txt && python train.py
-```
-
-The traffic simulation and the Magnus effect simulation run in the browser with no install — open the live demo link, or open `index.html` directly.
-
-</details>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,html,css,react,vite,threejs&theme=dark" alt="Languages and frameworks" /><br />
-<img src="https://skillicons.dev/icons?i=cs,unity,blender,git,github,githubactions,vscode&theme=dark" alt="Tools" />
-
-</div>
-
-**AI/ML:** PyTorch · scikit-learn · Transformers · NumPy · pandas<br>
-**Apps and demos:** Pygame · Streamlit · Three.js · React · Vite<br>
-**Testing and tooling:** pytest · node:test · GitHub Actions · Git
-
-## A Little Bit About Me
-
-- I was introduced to the world of programming at 8 years old.
-- I am Lebanese.
-- Fitness is a pretty important part of my life, I have lost over 42 kilograms and love powerlifting.
-- My favorite school subject is physics.
-- My other hobbies include game development and reading manga (Japanese comic books).
-
-## Currently Building Toward
-
-I am in the final year of the IB Diploma at Dubai International Academy Al Barsha, taking Design Technology, Business, and Mathematics: Applications and Interpretation at higher level. I am applying to AI and computer science bachelor's programmes for entry in autumn 2027. Long term, I want to research and build intelligent systems that combine practical software engineering with machine learning.
-
-## Best Starting Points
-
-- **One repo only?** → [DriftSync](https://github.com/Bouwles/DriftSync) — the fullest end-to-end ML project.
-- **Want something to click?** → [Traffic simulation live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/) — runs in the browser, no install.
-- **Reviewing code quickly?** → [ASL Interpreter](https://github.com/Bouwles/ASL-Interpreter) or [Arabic Sentiment Analyzer](https://github.com/Bouwles/arabic-sentiment-analyzer) — compact and readable.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:052e16&height=100&section=footer" alt="" />
-
-</div>
+- **Languages:** Python, JavaScript, C#, HTML/CSS
+- **ML and data:** PyTorch, scikit-learn, Hugging Face Transformers, NumPy, pandas
+- **Applications:** Streamlit, Pygame, Three.js, React, Vite, Unity
+- **Engineering:** Git, GitHub Actions, pytest, node:test
