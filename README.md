@@ -68,7 +68,7 @@ I study at Dubai International Academy Al Barsha (HL: Design Technology, Busines
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://bouwles.github.io/mbzuai-screening-prep/"><img src="https://raw.githubusercontent.com/Bouwles/mbzuai-screening-prep/main/docs/screenshots/lesson.png" alt="A lesson in Screening Prep" width="100%"></a>
+      <a href="https://bouwles.github.io/mbzuai-screening-prep/"><img src="https://raw.githubusercontent.com/Bouwles/mbzuai-screening-prep/main/docs/screenshots/dark.png" alt="Screening Prep in its dark theme" width="100%"></a>
       <br><br>
       <b><a href="https://github.com/Bouwles/mbzuai-screening-prep">Screening Prep</a></b>
       <br>
@@ -98,7 +98,7 @@ I study at Dubai International Academy Al Barsha (HL: Design Technology, Busines
 | :-- | :-- | :-- |
 | [**RL Chess and Snake Lab**](https://github.com/Bouwles/rl-chess-snake-lab) | DQN agent for a custom Snake environment and a self-play chess experiment, with replay memory, checkpointing, seeded configs and tests. | `Python` `PyTorch` `Gymnasium` |
 | [**ASL Interpreter**](https://github.com/Bouwles/ASL-Interpreter)<br><sub>[Live demo](https://bouwles.github.io/ASL-Interpreter/)</sub> | Turns webcam hand landmarks into English sentences in the browser, using gesture heuristics, a vote-based stability filter and a tested sentence engine. | `JavaScript` `MediaPipe` |
-| [**Arabic Sentiment Analyzer**](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP pipeline with text preprocessing, a pretrained Transformer model wrapper, CLI, batch mode and Streamlit demo. | `Python` `Hugging Face` `Streamlit` |
+| [**Arabic Sentiment Analyzer**](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP pipeline with text preprocessing, a pretrained Transformer model wrapper, CLI, batch mode and Streamlit demo. | `Python` `Transformers` `Streamlit` |
 | [**Four-Way Traffic Simulation**](https://github.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation)<br><sub>[Live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/)</sub> | Seeded stochastic simulation comparing equal-time and adaptive signal control over 250 paired trials with confidence intervals. Built for my IB Mathematics internal assessment. | `JavaScript` |
 | [**Magnus Effect Simulation**](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation)<br><sub>[Live demo](https://bouwles.github.io/Physics-Magnus-Effect-Simulation/)</sub> | Interactive 3D simulation of spin, drag and Magnus force, with force arrows, trajectory trails and live telemetry. | `JavaScript` `Three.js` |
 
@@ -171,5 +171,5 @@ I study at Dubai International Academy Al Barsha (HL: Design Technology, Busines
 ---
 
 <p align="center">
-  <sub>Open to conversations about AI, research and anything I have built. <a href="mailto:nercessianpaul@gmail.com">nercessianpaul@gmail.com</a></sub>
+  <sub>Get in touch: <a href="mailto:nercessianpaul@gmail.com">nercessianpaul@gmail.com</a></sub>
 </p>
