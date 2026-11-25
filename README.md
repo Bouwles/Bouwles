@@ -1,134 +1,156 @@
 <h1 align="center">Paul Nercessian</h1>
 
 <p align="center">
-  <b>Machine learning &nbsp;·&nbsp; Simulation &nbsp;·&nbsp; Games &nbsp;·&nbsp; Teaching Python</b>
+  <b>I build machine learning systems end to end, and I teach Python to beginners.</b><br>
+  IB Diploma student in Dubai &nbsp;·&nbsp; applying to AI and computer science degrees for autumn 2027
 </p>
 
 <p align="center">
-  Student developer in Dubai, in the final year of the IB Diploma.<br>
-  Applying to AI and computer science degree programmes for autumn 2027.
+  <a href="https://paulspythoncourse.com/"><img src="https://img.shields.io/badge/Paul's_Python_Course-30%2C000%2B_users-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Paul's Python Course: 30,000+ users"></a>
+  <a href="https://linkedin.com/in/paul-nercessian-b00427383"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nercessianpaul@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/paul-nercessian-b00427383"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nercessianpaul@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://paulspythoncourse.com/"><img src="https://img.shields.io/badge/Python_Course-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Paul's Python Course"></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><h2>30,000+</h2><sub>users on Paul's Python Course</sub></td>
+    <td align="center" width="20%"><h2>116</h2><sub>course projects, from <code>print</code> to a tiny GPT</sub></td>
+    <td align="center" width="20%"><h2>1,484</h2><sub>exam questions in Screening Prep, checked by 876 tests</sub></td>
+    <td align="center" width="20%"><h2>0.89</h2><sub>ROC AUC for DriftSync's Transformer (synthetic data)</sub></td>
+    <td align="center" width="20%"><h2>20+</h2><sub>public projects across ML, simulation, games and tools</sub></td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="#featured">Featured</a> &nbsp;·&nbsp;
-  <a href="#machine-learning-and-simulation">ML and simulation</a> &nbsp;·&nbsp;
-  <a href="#games">Games</a> &nbsp;·&nbsp;
-  <a href="#tools-and-apps">Tools and apps</a> &nbsp;·&nbsp;
+  <a href="#flagship-pauls-python-course">Flagship</a> &nbsp;·&nbsp;
+  <a href="#machine-learning">Machine learning</a> &nbsp;·&nbsp;
+  <a href="#simulation-and-learning-tools">Simulation and learning tools</a> &nbsp;·&nbsp;
+  <a href="#games-and-apps">Games and apps</a> &nbsp;·&nbsp;
   <a href="#skills">Skills</a>
 </p>
 
 ---
 
-I started out making games in C# and Unity, and I still work the same way now that my focus is machine learning: build the whole thing end to end, get it running live, then test it and write down what did not work. My current interests are world models, sequence models, reinforcement learning, computer vision and NLP.
+### About
 
-I study at Dubai International Academy Al Barsha (HL: Design Technology, Business, Mathematics AI).
+I started out making games in C# and Unity, and I still work the same way now that my focus is machine learning: build the whole system end to end, ship it, then test it hard and write down what did not work. I care most about whether a result is real, so my projects come with held-out evaluation, seeded experiments and automated tests.
 
-## Featured
+**Interests:** world models · sequence models · reinforcement learning · computer vision · NLP
 
-<a href="https://github.com/Bouwles/lucid">
-  <img src="https://raw.githubusercontent.com/Bouwles/lucid/main/docs/media/banner.svg" alt="LUCID: a neural game engine that learns to dream the games I make" width="100%">
+**Now:** training LUCID on my own Unity games, and growing Paul's Python Course.
+
+**School:** Dubai International Academy Al Barsha, IB Diploma (HL Design Technology, Business, Mathematics AI)
+
+---
+
+## Flagship: Paul's Python Course
+
+<a href="https://paulspythoncourse.com/">
+  <img src="https://raw.githubusercontent.com/Bouwles/pauls-python-course/main/docs/readme/lesson.png" alt="A lesson in Paul's Python Course beside the code editor" width="100%">
 </a>
 
-**[LUCID](https://github.com/Bouwles/lucid)** is a neural game engine. A diffusion world model watches recorded play, then generates the game one frame at a time from your key presses, with no game engine, physics code or level data in the loop. It uses EDM preconditioning and context-noise augmentation against drift, and an evaluation suite measures image quality, long-run stability and whether the dream obeys the controls.
+**[paulspythoncourse.com](https://paulspythoncourse.com/)** started as the website for the Python class I teach and has grown to **more than 30,000 users**.
 
-`Python` `PyTorch` `Unity` `FastAPI`
+- **116 projects across nine floors of a clocktower**, from a first `print` to a neural network from scratch, a tiny GPT and reinforcement learning
+- **Python runs in the browser** through Pyodide, so learners need nothing installed
+- **A class register** shows me each student's progress, and I still teach the live class every week
+- Built and maintained by me: front end, accounts, database and lesson content
 
-> **Status:** the whole pipeline is built and tested end to end on a synthetic test game. Training it on my own Unity games is the next stage.
+`TypeScript` `Next.js` `Pyodide` `Supabase`
+
+**[Open the site](https://paulspythoncourse.com/)** &nbsp;·&nbsp; [Source](https://github.com/Bouwles/pauls-python-course)
+
+---
+
+## Machine learning
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://paulspythoncourse.com/"><img src="https://raw.githubusercontent.com/Bouwles/pauls-python-course/main/docs/readme/lesson.png" alt="A lesson in Paul's Python Course beside the code editor" width="100%"></a>
+      <a href="https://github.com/Bouwles/lucid"><img src="https://raw.githubusercontent.com/Bouwles/lucid/main/docs/media/banner.svg" alt="LUCID: a neural game engine" width="100%"></a>
       <br><br>
-      <b><a href="https://github.com/Bouwles/pauls-python-course">Paul's Python Course</a></b>
+      <b><a href="https://github.com/Bouwles/lucid">LUCID</a></b> &nbsp;<sub>neural game engine</sub>
       <br>
-      The site for the Python class I teach. 116 projects climb nine floors of a clocktower, from a first <code>print</code> to a neural network from scratch, a tiny GPT and reinforcement learning. Python runs in the browser, and a class register shows me each student's progress.
+      A diffusion world model watches recorded play, then generates the game one frame at a time from your key presses, with no game engine, physics code or level data in the loop. EDM preconditioning and context-noise augmentation fight drift, and an evaluation suite measures image quality, long-run stability and whether the dream obeys the controls.
       <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>Pyodide</code> <code>Supabase</code>
+      <sub><b>Status:</b> pipeline built and tested end to end on a synthetic test game; training on my own Unity games is next.</sub>
       <br><br>
-      <a href="https://paulspythoncourse.com/">Open the site</a> &nbsp;·&nbsp; <a href="https://github.com/Bouwles/pauls-python-course">Source</a>
+      <code>Python</code> <code>PyTorch</code> <code>Unity</code> <code>FastAPI</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Bouwles/DriftSync"><img src="https://raw.githubusercontent.com/Bouwles/DriftSync/main/docs/assets/driftsync-workspace.png" alt="The DriftSync desktop workspace" width="100%"></a>
       <br><br>
-      <b><a href="https://github.com/Bouwles/DriftSync">DriftSync</a></b>
+      <b><a href="https://github.com/Bouwles/DriftSync">DriftSync</a></b> &nbsp;<sub>error prediction from behaviour</sub>
       <br>
-      Predicts whether a user will make an error in the next 5 trials from their last 20 trials of behaviour. LSTM and Transformer models, MC-dropout uncertainty and live inference in a desktop app. The Transformer reaches 0.89 ROC AUC on synthetic data.
+      Predicts whether a user will make an error in the next 5 trials from their last 20. LSTM and Transformer models, MC-dropout uncertainty and live inference in a desktop app. The Transformer reaches 0.89 ROC AUC on synthetic data; testing on real people is the next step.
       <br><br>
       <code>Python</code> <code>PyTorch</code> <code>Pygame</code>
       <br><br>
       <a href="https://github.com/Bouwles/DriftSync">Source</a> &nbsp;·&nbsp; <a href="https://github.com/Bouwles/DriftSync/releases">Windows download</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://bouwles.github.io/mbzuai-screening-prep/"><img src="https://raw.githubusercontent.com/Bouwles/mbzuai-screening-prep/main/docs/screenshots/dark.png" alt="Screening Prep in its dark theme" width="100%"></a>
-      <br><br>
-      <b><a href="https://github.com/Bouwles/mbzuai-screening-prep">Screening Prep</a></b>
-      <br>
-      Unofficial revision site for the MBZUAI BSc in AI screening exam: 65 lessons, 1,484 questions, 177 question generators, timed mocks and spaced repetition. 876 tests check every question and 2,000 variants of each generator.
-      <br><br>
-      <code>TypeScript</code> <code>React</code> <code>Vite</code>
-      <br><br>
-      <a href="https://bouwles.github.io/mbzuai-screening-prep/">Open the site</a> &nbsp;·&nbsp; <a href="https://github.com/Bouwles/mbzuai-screening-prep">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://bouwles.github.io/SCRATCH/"><img src="https://raw.githubusercontent.com/Bouwles/SCRATCH/main/docs/screenshots/01-table.jpg" alt="A SCRATCH table mid-run" width="100%"></a>
-      <br><br>
-      <b><a href="https://github.com/Bouwles/SCRATCH">SCRATCH</a></b>
-      <br>
-      A billiards roguelite with its own physics. Every table, texture, song and sound effect is generated in code, so the repo contains no image, audio or model files.
-      <br><br>
-      <code>JavaScript</code> <code>Three.js</code> <code>Vite</code>
-      <br><br>
-      <a href="https://bouwles.github.io/SCRATCH/">Play in the browser</a> &nbsp;·&nbsp; <a href="https://github.com/Bouwles/SCRATCH">Source</a>
-    </td>
-  </tr>
 </table>
 
-## Machine learning and simulation
-
-| Project | About | Stack |
+| Project | What it does | Stack |
 | :-- | :-- | :-- |
 | [**RL Chess and Snake Lab**](https://github.com/Bouwles/rl-chess-snake-lab) | DQN agent for a custom Snake environment and a self-play chess experiment, with replay memory, checkpointing, seeded configs and tests. | `Python` `PyTorch` `Gymnasium` |
-| [**ASL Interpreter**](https://github.com/Bouwles/ASL-Interpreter)<br><sub>[Live demo](https://bouwles.github.io/ASL-Interpreter/)</sub> | Turns webcam hand landmarks into English sentences in the browser, using gesture heuristics, a vote-based stability filter and a tested sentence engine. | `JavaScript` `MediaPipe` |
-| [**Arabic Sentiment Analyzer**](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP pipeline with text preprocessing, a pretrained Transformer model wrapper, CLI, batch mode and Streamlit demo. | `Python` `Transformers` `Streamlit` |
-| [**Four-Way Traffic Simulation**](https://github.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation)<br><sub>[Live demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/)</sub> | Seeded stochastic simulation comparing equal-time and adaptive signal control over 250 paired trials with confidence intervals. Built for my IB Mathematics internal assessment. | `JavaScript` |
-| [**Magnus Effect Simulation**](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation)<br><sub>[Live demo](https://bouwles.github.io/Physics-Magnus-Effect-Simulation/)</sub> | Interactive 3D simulation of spin, drag and Magnus force, with force arrows, trajectory trails and live telemetry. | `JavaScript` `Three.js` |
+| [**ASL Interpreter**](https://github.com/Bouwles/ASL-Interpreter) · [demo](https://bouwles.github.io/ASL-Interpreter/) | Turns webcam hand landmarks into English sentences in the browser, with a vote-based stability filter and a tested sentence engine. | `JavaScript` `MediaPipe` |
+| [**Arabic Sentiment Analyzer**](https://github.com/Bouwles/arabic-sentiment-analyzer) | Arabic NLP pipeline with text preprocessing, a pretrained Transformer model wrapper, CLI, batch mode and a Streamlit demo. | `Python` `Transformers` `Streamlit` |
 
-## Games
+---
 
-| Project | About | Stack |
+## Simulation and learning tools
+
+| Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**Hand Cannon**](https://github.com/Bouwles/3D-Finger-Tracking-Shooter-Game)<br><sub>[Play](https://bouwles.github.io/3D-Finger-Tracking-Shooter-Game/)</sub> | Browser shooter you aim with your index finger and fire with your thumb, using webcam hand tracking. | `JavaScript` `MediaPipe` |
-| [**RAJIS**](https://github.com/Bouwles/RAJIS)<br><sub>[Play](https://bouwles.github.io/RAJIS/)</sub> | First-person 3D missile defence game with wave survival and online 1v1. | `JavaScript` `Three.js` |
-| [**Shatterdome Earth**](https://github.com/Bouwles/Pacific-Rim-Shatterdome-Earth)<br><sub>[Play](https://bouwles.github.io/Pacific-Rim-Shatterdome-Earth/)</sub> | Open-world Pacific Rim fan game, with a headless scenario runner that tests for determinism. | `TypeScript` `Babylon.js` |
-| [**Mach 20**](https://github.com/Bouwles/assassination-classroom-last-bell)<br><sub>[Play](https://bouwles.github.io/assassination-classroom-last-bell/)</sub> | Assassination Classroom fan game about tracking the real target through afterimages. | `JavaScript` `Vite` |
+| [**Screening Prep**](https://github.com/Bouwles/mbzuai-screening-prep) · [open](https://bouwles.github.io/mbzuai-screening-prep/) | Unofficial revision site for the MBZUAI BSc in AI screening exam: 65 lessons, 1,484 questions, 177 question generators, timed mocks and spaced repetition. 876 tests check every question and 2,000 variants of each generator. | `TypeScript` `React` `Vite` |
+| [**Four-Way Traffic Simulation**](https://github.com/Bouwles/Four-Way-Stochastic-Traffic-Simulation) · [demo](https://bouwles.github.io/Four-Way-Stochastic-Traffic-Simulation/) | Seeded stochastic simulation comparing equal-time and adaptive signal control over 250 paired trials with confidence intervals. Built for my IB Mathematics internal assessment. | `JavaScript` |
+| [**Magnus Effect Simulation**](https://github.com/Bouwles/Physics-Magnus-Effect-Simulation) · [demo](https://bouwles.github.io/Physics-Magnus-Effect-Simulation/) | Interactive 3D simulation of spin, drag and Magnus force, with force arrows, trajectory trails and live telemetry. | `JavaScript` `Three.js` |
+| [**Calculus Practice**](https://github.com/Bouwles/calculus-practice) · [open](https://bouwles.github.io/calculus-practice/) | Randomly generated derivative and integral questions, each with the rule behind its answer. One HTML file that works offline. | `JavaScript` `KaTeX` |
+
+---
+
+## Games and apps
+
+<a href="https://bouwles.github.io/SCRATCH/"><img src="https://raw.githubusercontent.com/Bouwles/SCRATCH/main/docs/screenshots/01-table.jpg" alt="A SCRATCH table mid-run" width="100%"></a>
+
+**[SCRATCH](https://github.com/Bouwles/SCRATCH)** is a billiards roguelite with its own physics. Every table, texture, song and sound effect is generated in code, so the repo contains no image, audio or model files. **[Play in the browser](https://bouwles.github.io/SCRATCH/)**
+
+<details>
+<summary><b>More games (6)</b></summary>
+<br>
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**Hand Cannon**](https://github.com/Bouwles/3D-Finger-Tracking-Shooter-Game) · [play](https://bouwles.github.io/3D-Finger-Tracking-Shooter-Game/) | Browser shooter you aim with your index finger and fire with your thumb, using webcam hand tracking. | `JavaScript` `MediaPipe` |
+| [**RAJIS**](https://github.com/Bouwles/RAJIS) · [play](https://bouwles.github.io/RAJIS/) | First-person 3D missile defence game with wave survival and online 1v1. | `JavaScript` `Three.js` |
+| [**Shatterdome Earth**](https://github.com/Bouwles/Pacific-Rim-Shatterdome-Earth) · [play](https://bouwles.github.io/Pacific-Rim-Shatterdome-Earth/) | Open-world fan game with a headless scenario runner that tests for determinism. | `TypeScript` `Babylon.js` |
+| [**Mach 20**](https://github.com/Bouwles/assassination-classroom-last-bell) · [play](https://bouwles.github.io/assassination-classroom-last-bell/) | Fan game about tracking the real target through afterimages. | `JavaScript` `Vite` |
 | [**Breaktime**](https://github.com/Bouwles/breaktime) | Fast top-down action roguelite for five-minute breaks. | `JavaScript` |
-| [**Horse Tinder**](https://github.com/Bouwles/horse-tinder)<br><sub>[Play](https://bouwles.github.io/horse-tinder/)</sub> | A joke made with a friend: 45 horses to swipe on, and they text back. | `JavaScript` |
+| [**Horse Tinder**](https://github.com/Bouwles/horse-tinder) · [play](https://bouwles.github.io/horse-tinder/) | A joke made with a friend: 45 horses to swipe on, and they text back. | `JavaScript` |
 
-## Tools and apps
+</details>
 
-| Project | About | Stack |
+<details>
+<summary><b>Developer tools and apps (6)</b></summary>
+<br>
+
+| Project | What it does | Stack |
 | :-- | :-- | :-- |
 | [**Assumption Archaeologist**](https://github.com/Bouwles/assumption-archaeologist) | Claude Code plugin that records the unwritten assumptions in a codebase and tracks whether they still hold. | `Claude Code` |
 | [**Comment Rot Detector**](https://github.com/Bouwles/comment-rot-detector) | Claude Code plugin that flags comments which stop matching the code after an edit. | `Claude Code` |
-| [**KenKen for Paul**](https://github.com/Bouwles/kenken-for-paul)<br><sub>[Play](https://bouwles.github.io/kenken-for-paul/)</sub> | Puzzle generator with a solver that guarantees exactly one solution, as a website and a native Mac app. | `JavaScript` `Swift` |
-| [**Calculus Practice**](https://github.com/Bouwles/calculus-practice)<br><sub>[Open](https://bouwles.github.io/calculus-practice/)</sub> | Randomly generated derivative and integral questions, each with the rule behind its answer. One HTML file that works offline. | `JavaScript` `KaTeX` |
+| [**KenKen for Paul**](https://github.com/Bouwles/kenken-for-paul) · [play](https://bouwles.github.io/kenken-for-paul/) | Puzzle generator with a solver that guarantees exactly one solution, as a website and a native Mac app. | `JavaScript` `Swift` |
 | [**Silo**](https://github.com/Bouwles/Silo) | macOS focus timer, task list and study analytics. | `SwiftUI` `SwiftData` |
 | [**PromptForge**](https://github.com/Bouwles/PromptForge) | Local prompt writer for coding agents. | `Ollama` |
 | [**PR Tracker**](https://github.com/Bouwles/nercessians-pr-tracker) | Desktop app for gym personal records and progress charts. | `Electron` `React` |
 
+</details>
+
+---
+
 ## Skills
 
-**Languages**
-
+**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
@@ -136,8 +158,7 @@ I study at Dubai International Academy Al Barsha (HL: Design Technology, Busines
 ![Swift](https://img.shields.io/badge/Swift-334155?style=flat-square&logo=swift&logoColor=white)
 ![HTML and CSS](https://img.shields.io/badge/HTML%2FCSS-334155?style=flat-square&logo=html5&logoColor=white)
 
-**ML and data**
-
+**ML and data** &nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-334155?style=flat-square&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -146,22 +167,20 @@ I study at Dubai International Academy Al Barsha (HL: Design Technology, Busines
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-334155?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-334155?style=flat-square&logo=mediapipe&logoColor=white)
 
-**Web and apps**
-
+**Web and apps** &nbsp;
 ![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-334155?style=flat-square&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-334155?style=flat-square&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-334155?style=flat-square&logo=threedotjs&logoColor=white)
 ![Babylon.js](https://img.shields.io/badge/Babylon.js-334155?style=flat-square&logo=babylondotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-334155?style=flat-square&logo=streamlit&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-334155?style=flat-square)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-334155?style=flat-square&logo=swift&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-334155?style=flat-square&logo=electron&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-334155?style=flat-square&logo=unity&logoColor=white)
 
-**Engineering**
-
+**Engineering** &nbsp;
 ![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-334155?style=flat-square&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-334155?style=flat-square&logo=pytest&logoColor=white)
