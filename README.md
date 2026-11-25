@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://paulspythoncourse.com/"><img src="https://img.shields.io/badge/Paul's_Python_Course-30%2C000%2B_users-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Paul's Python Course: 30,000+ users"></a>
+  <a href="https://paulspythoncourse.com/"><img src="https://img.shields.io/badge/Paul's_Python_Course-1%2C000%2B_users-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Paul's Python Course: 1,000+ users"></a>
   <a href="https://linkedin.com/in/paul-nercessian-b00427383"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nercessianpaul@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><h2>30,000+</h2><sub>users on Paul's Python Course</sub></td>
+    <td align="center" width="20%"><h2>1,000+</h2><sub>users on Paul's Python Course</sub></td>
     <td align="center" width="20%"><h2>116</h2><sub>course projects, from <code>print</code> to a tiny GPT</sub></td>
     <td align="center" width="20%"><h2>1,484</h2><sub>exam questions in Screening Prep, checked by 876 tests</sub></td>
     <td align="center" width="20%"><h2>0.89</h2><sub>ROC AUC for DriftSync's Transformer (synthetic data)</sub></td>
@@ -49,7 +49,7 @@ I started out making games in C# and Unity, and I still work the same way now th
   <img src="https://raw.githubusercontent.com/Bouwles/pauls-python-course/main/docs/readme/lesson.png" alt="A lesson in Paul's Python Course beside the code editor" width="100%">
 </a>
 
-**[paulspythoncourse.com](https://paulspythoncourse.com/)** started as the website for the Python class I teach and has grown to **more than 30,000 users**.
+**[paulspythoncourse.com](https://paulspythoncourse.com/)** started as the website for the Python class I teach and has grown to **more than 1,000 users**.
 
 - **116 projects across nine floors of a clocktower**, from a first `print` to a neural network from scratch, a tiny GPT and reinforcement learning
 - **Python runs in the browser** through Pyodide, so learners need nothing installed
