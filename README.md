@@ -46,7 +46,7 @@ I started out making games in C# and Unity, and I still work the same way now th
 ## Flagship: Paul's Python Course
 
 <a href="https://paulspythoncourse.com/">
-  <img src="https://raw.githubusercontent.com/Bouwles/pauls-python-course/main/docs/readme/lesson.png" alt="A lesson in Paul's Python Course beside the code editor" width="100%">
+  <img src="images/pauls-python-course.png" alt="A lesson in Paul's Python Course beside the code editor" width="100%">
 </a>
 
 **[paulspythoncourse.com](https://paulspythoncourse.com/)** started as the website for the Python class I teach and has grown to **more than 1,000 users**.
@@ -58,7 +58,7 @@ I started out making games in C# and Unity, and I still work the same way now th
 
 `TypeScript` `Next.js` `Pyodide` `Supabase`
 
-**[Open the site](https://paulspythoncourse.com/)** &nbsp;·&nbsp; [Source](https://github.com/Bouwles/pauls-python-course)
+**[Open the site](https://paulspythoncourse.com/)**
 
 ---
 
